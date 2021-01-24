@@ -1,1 +1,1 @@
-# Simon-Game
+This is a simple memory game created using HTML, CSS, JavaScript. The game generates a random colour and flashes it on the screen. The user is required to click all the previous colours including the currently flashed colour in the right order. The game is over as soon as the user does a mistake in choosing the right colour. The sequence of colours are stored in a JavaScript array.
